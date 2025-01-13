@@ -1,6 +1,6 @@
 # Rockbuster Stealth Data Analysis Project
 ## Overview
-A data analysis project for Rockbuster Stealth, a movie rental company transitioning to an online streaming service. This repository contains SQL queries, data analysis scripts, and visualizations that provide strategic insights for the company's digital transformation.
+A SQL-based data analysis project for Rockbuster Stealth, a movie rental company transitioning from physical rental stores to an online streaming service. As an analyst for Rockbuster Stealth I aim to analyze the data to understand Rockbusters customer base and popular films in order to be competitive agains other streaming platforms. This repository contains SQL queries, data analysis scripts, and visualizations that provide strategic insights for the company's digital transformation.
 ## Data Dictionary  
 [PDF](https://github.com/isavannahr/CF_RockbusterStealthDataAnalysis/blob/main/DataDictionaryFinal.pdf)
 ## Presentation
